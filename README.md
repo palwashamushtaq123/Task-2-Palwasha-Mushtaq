@@ -4,7 +4,7 @@
 
  This project focuses on predicting loan approval using machine learning and statistical analysis. It goes beyond basic ML by incorporating probability, hypothesis testing, and deep exploratory data analysis to understand real-world banking behavior.
 
-4. **Dataset**
+2. **Dataset**
  - 614 loan applications
  - Features include income, credit history, loan amount, education, property area, etc.
  - Target: Loan_Status (Approved / Rejected)
@@ -55,7 +55,7 @@
  - Accuracy Score
  - Confusion Matrix
  - Classification Report
-   
+
 4. **Model Performance**
    Model	Accuracy
  - Logistic Regression	76%
@@ -75,4 +75,4 @@
 
 7. **Conclusion**
 
-**This project demonstrates how combining statistical analysis + machine learning leads to better understanding of real-world financial decision-making systems. The insights derived can help banks improve loan approval strategies and reduce risk.**
+ **This project demonstrates how combining statistical analysis + machine learning leads to better understanding of real-world financial decision-making systems. The insights   derived can help banks improve loan approval strategies and reduce risk.**
