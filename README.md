@@ -61,7 +61,7 @@
  - Logistic Regression	76%
  - KNN	64%
 
-✔ **Logistic Regression performed better overall**
+ **Logistic Regression performed better overall**
 
 5. **Key Insights**
  - Credit History is the strongest predictor of loan approval
