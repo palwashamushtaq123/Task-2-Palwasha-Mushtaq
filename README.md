@@ -1,9 +1,10 @@
 # **Loan Approval Prediction using Machine Learning**
 
 1. **Project Overview**
-This project focuses on predicting loan approval using machine learning and statistical analysis. It goes beyond basic ML by incorporating probability, hypothesis testing, and deep exploratory data analysis to understand real-world banking behavior.
 
-2. **Dataset**
+ This project focuses on predicting loan approval using machine learning and statistical analysis. It goes beyond basic ML by incorporating probability, hypothesis testing, and deep exploratory data analysis to understand real-world banking behavior.
+
+4. **Dataset**
  - 614 loan applications
  - Features include income, credit history, loan amount, education, property area, etc.
  - Target: Loan_Status (Approved / Rejected)
@@ -31,25 +32,30 @@ This project focuses on predicting loan approval using machine learning and stat
  - Missing value handling
  - Outlier treatment
  - Feature cleaning
+   
 ✔ **Exploratory Data Analysis**
  - Income distribution analysis
  - Loan amount distribution
  - Boxplots & skewness analysis
  - Categorical relationship analysis
+   
 ✔ **Feature Engineering**
  - Label Encoding
  - One-Hot Encoding
  - Feature scaling using StandardScaler
+   
 ✔ **Handling Imbalance**
  - SMOTE applied to balance dataset
+   
 ✔ **Model Building**
  - Logistic Regression
  - K-Nearest Neighbors (KNN)
+   
 ✔ **Model Evaluation**
  - Accuracy Score
  - Confusion Matrix
  - Classification Report
- - 
+   
 4. **Model Performance**
    Model	Accuracy
  - Logistic Regression	76%
